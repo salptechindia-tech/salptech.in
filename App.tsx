@@ -164,7 +164,7 @@ const App: React.FC = () => {
               <div className="grid grid-cols-2 gap-4">
                 <div className="space-y-4 pt-12">
                   <div className="rounded-custom-image overflow-hidden h-64 shadow-2xl">
-                    <img src="/public/hero1.webp" className="w-full h-full object-cover" alt="Team" />
+                    <img src="/hero1.webp" className="w-full h-full object-cover" alt="Team" />
                   </div>
                   <div className="bg-orange-500 p-6 rounded-3xl text-white">
                     <i className="fa-solid fa-rocket text-4xl mb-4"></i>
@@ -177,7 +177,7 @@ const App: React.FC = () => {
                     <p className="text-sm text-gray-400">Built for Growth. Designed to Scale.</p>
                   </div>
                   <div className="rounded-tr-[5rem] rounded-bl-[5rem] rounded-tl-[1rem] rounded-br-[1rem] overflow-hidden h-80 shadow-2xl">
-                    <img src="/public/hero2.webp" className="w-full h-full object-cover" alt="App" />
+                    <img src="/hero2.webp" className="w-full h-full object-cover" alt="App" />
                   </div>
                 </div>
               </div>
@@ -548,7 +548,7 @@ const App: React.FC = () => {
           <div className="flex flex-col lg:flex-row items-center gap-20">
             <div className="lg:w-1/2">
               <div className="relative">
-                <img src="/public/whychoose.webp" className="rounded-[4rem] shadow-2xl" alt="Office" />
+                <img src="/whychoose.webp" className="rounded-[4rem] shadow-2xl" alt="Office" />
               </div>
             </div>
             <div className="lg:w-1/2">
