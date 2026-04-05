@@ -599,6 +599,10 @@ const App: React.FC = () => {
               <i className="fa-solid fa-phone"></i>
               +91 86100 42672
             </a>
+            <a href="tel:+917604903279" className="border border-gray-700 hover:bg-gray-800 text-white px-10 py-5 rounded-full font-bold text-lg transition-all inline-flex items-center justify-center gap-2">
+              <i className="fa-solid fa-phone"></i>
+              +91 76049 03279
+            </a>
           </div>
         </div>
       </section>
@@ -630,6 +634,7 @@ const App: React.FC = () => {
                   <div>
                     <p className="text-sm text-gray-400">Call Us</p>
                     <p className="text-xl font-bold">+91 86100 42672</p>
+                    <p className="text-xl font-bold">+91 76049 03279</p>
                   </div>
                 </div>
                 <div className="flex items-center space-x-6">
